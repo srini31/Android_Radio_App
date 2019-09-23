@@ -6,7 +6,7 @@ A lot of Audio and Video files are available from an organization. An App will b
 Features: 
 * Bookmarks (pre-created and user-created), playlists, pictures, announcements, email links, repeat an audio 'n' number of times, 
 * All users are not technically proficient, so user friendly features need to be built in.
-This will save storage and organization issues for a large group of users who currently save files on their phones.
+- This will save storage and organization issues for a large group of users who currently save files on their phones.
 
 Will make it easy to announce and distribute content
 The links are in chat applications and emails currently and are not organized
